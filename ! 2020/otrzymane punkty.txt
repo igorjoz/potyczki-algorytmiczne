@@ -1,0 +1,9 @@
+Maksymalna ilość punktów na zadanie: 10
+
+1B kol: 4
+1C wyb: 10
+2C zab: 10
+3C sam: 4
+4C wyc: 5
+5C cuk: 4
+5C dag: 1

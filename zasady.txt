@@ -1,0 +1,12 @@
+Rozwiązaniem zadania jest jednoplikowy program (kod źródłowy) dla problemu z treści zadania.
+Program musi spełniać ograniczenia podane w treści zadania.
+W danych testowych nie występują zbędne puste wiersze ani znaki odstępu na początkach i na końcach wierszy, chyba że w treści zadania wyraźnie zaznaczono inaczej. Po każdym wierszu danych znajduje się uniksowy znak końca linii. Jeżeli w jednym wierszu znajduje się więcej niż jedna liczba, to wszystkie liczby są pooddzielane pojedynczymi odstępami. Ta zasada dotyczy danych wejściowych oraz wyjściowych.
+Dopuszczalne są jedynie programy w języku C++.
+
+Rozwiązania wzorcowe są napisane w C++ z wykorzystaniem STL-a i względem nich będą dobierane limity czasowe. Limity czasowe dla zadań z grupy A mogą być ostrzejsze niż w przypadku grup B oraz C.
+
+Jedynymi kryteriami oceny rozwiązania są poprawność i szybkość działania programu.
+
+Każde rozwiązanie przedstawione do oceny jest albo akceptowane, albo odrzucane, a zawodnik jest powiadamiany o tej ocenie. Przyczyna odrzucenia rozwiązania jest określana jednym z następujących komunikatów: błąd kompilacji (compile error), błąd wykonania (runtime error), błędna odpowiedź (wrong answer), przekroczenie limitu czasu (time limit exceeded), przekroczenie limitu pamięci (memory limit exceeded), naruszenie zasad (rule violation), przekroczenie limitu wyjścia (output limit exceeded).
+
+Uczestnicy sklasyfikowani na czołowych 256 pozycjach rankingu B+C otrzymają koszulki z logo Potyczki Algorytmiczne 2020.
