@@ -1,0 +1,9 @@
+Maksymalna ilość punktów na zadanie: 10
+
+1B kol: 4	-> powód: użycie INT zamiast LONG LONG, gdybym użył to byłoby 10/10
+1C wyb: 10
+2C zab: 10
+
+
+Zadania do zrobienia po konkursie:
+-1A -> brak czasu podczas konkursu
